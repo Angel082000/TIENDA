@@ -1,0 +1,73 @@
+body{
+    background-color: #8B97F1;
+}
+
+
+  footer {
+  width: 102.5%;
+  background: #202020;
+  color: white;
+  font-size: 12px;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 1rem;
+  padding-bottom: 20px;
+}
+
+#camp{
+font-family: 'Carter One', cursive;
+text-align: center;
+    color:#000C68; 
+  font-size: 70pt;
+}
+
+#card{
+font-family: 'Carter One', cursive;
+text-align: center;
+    color:#000C68; 
+  font-size: 70pt;
+}
+
+.info {
+    color: white;
+
+  font: oblique 120% cursive;
+    
+}
+.in{
+    color: #000D6E;
+
+  font: oblique 120% cursive;
+    
+}
+.camp{
+     color: white;
+  font-family:"Segoe UI";
+}
+
+
+
+.news-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+  margin: 70px 0;
+}
+
+.news-cards img {
+  width: 100%;
+  height: 180px;
+}
+
+.news-cards h3 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.news-cards a {
+  padding: 10px 0;
+  color: #f2f2f2;
+  text-transform: uppercase;
+  display: inline-block;
+  font-weight: bold;
+}
